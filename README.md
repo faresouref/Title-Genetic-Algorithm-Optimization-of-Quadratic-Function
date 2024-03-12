@@ -46,7 +46,4 @@ The algorithm works by generating a population of candidate solutions (chromosom
 - Adjust the search space, population size, and number of generations in the script according to your requirements.
 - Experiment with different selection, crossover, and mutation strategies to improve optimization performance.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
